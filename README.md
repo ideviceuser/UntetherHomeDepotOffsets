@@ -5,6 +5,7 @@ Collection of all known offsets for the UntetherHomeDepot by Tihmstar
 
 | Device | Version | Contributor | Tester |
 |---------|----------|----------|----------|
+| iPhone 4S (4,1) | iOS 9.3.1 | stek29 |
 | iPhone 4S (4,1) | iOS 9.3.4 | Tihmstar |  ideviceuser
 | iPhone 5 (5,2) | iOS 9.3.3 | deepfriedfilth |
 | iPad 3 (3,3) | iOS 9.3.2 | stek29.rocks |
