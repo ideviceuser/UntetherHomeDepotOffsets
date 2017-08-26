@@ -9,6 +9,7 @@ Collection of all known offsets for the UntetherHomeDepot by Tihmstar
 | iPhone 4S (4,1) | 9.3.2 | ideviceuser | Darwin Kernel Version 15.5.0: Mon Apr 18 16:44:07 PDT 2016; root:xnu-3248.50.21~4/RELEASE_ARM_S5L8940X
 | iPhone 4S (4,1) | 9.3.4 | Tihmstar | Darwin Kernel Version 15.6.0: Mon Jun 20 20:10:21 PDT 2016; root:xnu-3248.60.9~1/RELEASE_ARM_S5L8940X
 | iPhone 5 (5,1) | 9.3.4 | StormJ | Darwin Kernel Version 15.6.0: Mon Jun 20 20:10:21 PDT 2016; root:xnu-3248.60.9~1/RELEASE_ARM_S5L8950X
+| iPhone 5 (5,2) | 9.3.2 | @lukee_gd_ | Darwin Kernel Version 15.5.0: Mon Apr 18 16:44:04 PDT 2016; root:xnu-3248.50.21~4/RELEASE_ARM_S5L8950X
 | iPhone 5 (5,2) | 9.3.3 | deepfriedfilth | Darwin Kernel Version 15.6.0: Mon Jun 20 20:10:21 PDT 2016; root:xnu-3248.60.9~1/RELEASE_ARM_S5L8950X
 | iPhone 5C (5,3) | 9.3.1 | [/u/OothecaPickle](https://www.reddit.com/r/jailbreak/comments/6vgrol/help_i_have/dm091hm/) | Darwin Kernel Version 15.4.0: Fri Feb 19 13:54:54 PST 2016; root:xnu-3248.41.4~28/RELEASE_ARM_S5L8950X
 | iPhone 5C (5,4) | 9.2.1 | Noah Little | Darwin Kernel Version 15.0.0: Wed Dec 9 22:19:37 PST 2015; root:xnu-3248.31.3~2/RELEASE_ARM_S5L8950X
