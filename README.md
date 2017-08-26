@@ -3,19 +3,19 @@ Collection of all known offsets for the UntetherHomeDepot by Tihmstar
 
 ## Supported Devices and iOS versions
 
-| Device | Version | Contributor | Tester |
+| Device | Version | Contributor | Kernel |
 |---------|----------|----------|----------|
-| iPhone 4S (4,1) | iOS 9.3.1 | stek29 |
-| iPhone 4S (4,1) | iOS 9.3.4 | Tihmstar |  ideviceuser
-| iPhone 5 (5,2) | iOS 9.3.3 | deepfriedfilth |
-| iPhone 5C (5,3) | iOS 9.3.1 | [/u/OothecaPickle](https://www.reddit.com/r/jailbreak/comments/6vgrol/help_i_have/dm091hm/) |
-| iPad Mini (2,5) | iOS 9.3.2 | [@OothecaPickle](https://twitter.com/OothecaPickle/status/900121250705494016) |
-| iPad Mini (2,5) | iOS 9.3.4 | [@matteyeux](https://twitter.com/matteyeux) |
-| iPad 3 (3,3) | iOS 9.3.4 | stek29 |
-| iPad 4 (3,4) | iOS 9.3.2 | anpnymous |
-| iPod 5 (5,1) | iOS 9.3.1 | Emilio Robles |
-| iPod 5 (5,1) | iOS 9.3.2 | Emilio Robles |
-| iPod 5 (5,1) | iOS 9.3.4 | [@erten50](https://twitter.com/erten50) |
+| iPhone 4S (4,1) | 9.3.1 | stek29 |
+| iPhone 4S (4,1) | 9.3.4 | Tihmstar | Darwin Kernel Version 15.6.0: Mon Jun 20 20:10:21 PDT 2016; root:xnu-3248.60.9~1/RELEASE_ARM_S5L8940X
+| iPhone 5 (5,2) | 9.3.3 | deepfriedfilth |
+| iPhone 5C (5,3) | 9.3.1 | [/u/OothecaPickle](https://www.reddit.com/r/jailbreak/comments/6vgrol/help_i_have/dm091hm/) |
+| iPad Mini (2,5) | 9.3.2 | [@OothecaPickle](https://twitter.com/OothecaPickle/status/900121250705494016) |
+| iPad Mini (2,5) | 9.3.4 | [@matteyeux](https://twitter.com/matteyeux) |
+| iPad 3 (3,3) | 9.3.4 | stek29 |
+| iPad 4 (3,4) | 9.3.2 | anpnymous |
+| iPod 5 (5,1) | 9.3.1 | Emilio Robles |
+| iPod 5 (5,1) | 9.3.2 | Emilio Robles |
+| iPod 5 (5,1) | 9.3.4 | [@erten50](https://twitter.com/erten50) |
 
 
 ## How to become a Contributor?
@@ -29,6 +29,14 @@ Guid by [deepfriedfilth](https://gist.github.com/deepfriedfilth/4cac9831ff0e112b
 ## Warnings
 If you run this on a device that has not yet been tested by a second person, make sure you saved your blobs for a possible downgrade.
 If you tested it successfully open an issue and I will add your name as tester.
+
+## How to use
+1. Make sure you have am iPhone, iPad or iPod touch (32-bit) on iOS 9.1-9.3.4
+2. Jailbreak your device with [Home Depot](http://wall.supplies/)
+3. Launch Cydia and add tihmstars repo (repo.tihmstar.net)
+4. Install the UntetherHomeDepot package
+5. Downlod the offset.json and replace the downloaded file with the one you find under /untether. We recommend SSH or Filza for this.
+6. You can now reboot your device and it should boot up in a jailbroken state.
 
 ## Thanks
 Special thanks to Tihmstar for creating this untether.
