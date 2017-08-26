@@ -8,7 +8,15 @@ Collection of all known offsets for the UntetherHomeDepot by Tihmstar
 | iPhone 4S (4,1) | iOS 9.3.1 | stek29 |
 | iPhone 4S (4,1) | iOS 9.3.4 | Tihmstar |  ideviceuser
 | iPhone 5 (5,2) | iOS 9.3.3 | deepfriedfilth |
-| iPad 3 (3,3) | iOS 9.3.2 | stek29.rocks |
+| iPhone 5C (5,3) | iOS 9.3.1 | [/u/OothecaPickle](https://www.reddit.com/r/jailbreak/comments/6vgrol/help_i_have/dm091hm/) |
+| iPad Mini (2,5) | iOS 9.3.2 | [@OothecaPickle](https://twitter.com/OothecaPickle/status/900121250705494016) |
+| iPad Mini (2,5) | iOS 9.3.4 | [@matteyeux](https://twitter.com/matteyeux) |
+| iPad 3 (3,3) | iOS 9.3.4 | stek29 |
+| iPad 4 (3,4) | iOS 9.3.2 | anpnymous |
+| iPod 5 (5,1) | iOS 9.3.1 | Emilio Robles |
+| iPod 5 (5,1) | iOS 9.3.2 | Emilio Robles |
+| iPod 5 (5,1) | iOS 9.3.4 | [@erten50](https://twitter.com/erten50) |
+
 
 ## How to become a Contributor?
 
