@@ -278,5 +278,25 @@
     "0x0",
     "0x8001fead",
     "0x8001fecd"
-	]
+	],
+"Darwin Kernel Version 15.5.0: Mon Apr 18 16:44:04 PDT 2016; root:xnu-3248.50.21~4/RELEASE_ARM_S5L8950X":
+   ["0x31ef58",
+    "0x321818",
+    "0x1ee6c",
+    "0xdea48",
+    "0x40b428",
+    "0xcb7dc",
+    "0xdea4a",
+    "0xcb508",
+    "0x45d978",
+    "0x3fe454",
+    "0xcb560",
+    "0x45f2c8",
+    "0xa4",
+    "0x8001fe3d",
+    "0x0",
+    "0x0",
+    "0x8001fe6d",
+    "0x8001fe8d"
+  ]
 }
