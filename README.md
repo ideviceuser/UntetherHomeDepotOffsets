@@ -13,7 +13,7 @@ Collection of all known offsets for the UntetherHomeDepot by Tihmstar
 | iPad Mini (2,5) | 9.3.2 | [@OothecaPickle](https://twitter.com/OothecaPickle/status/900121250705494016) | Darwin Kernel Version 15.5.0: Mon Apr 18 16:44:05 PDT 2016; root:xnu-3248.50.21~4/RELEASE_ARM_S5L8942X
 | iPad Mini (2,5) | 9.3.4 | [@matteyeux](https://twitter.com/matteyeux) | Darwin Kernel Version 15.6.0: Mon Jun 20 20:10:21 PDT 2016; root:xnu-3248.60.9~1/RELEASE_ARM_S5L8942X
 | iPad 3 (3,3) | 9.3.2 | stek29 | Darwin Kernel Version 15.5.0: Mon Apr 18 16:44:06 PDT 2016; root:xnu-3248.50.21~4/RELEASE_ARM_S5L8945X
-| iPad 4 (3,4) | 9.3.2 | anpnymous | Darwin Kernel Version 15.5.0: Mon Apr 18 16:44:06 PDT 2016; root:xnu-3248.50.21~4/RELEASE_ARM_S5L8955X
+| iPad 4 (3,4) | 9.3.2 | anonymous | Darwin Kernel Version 15.5.0: Mon Apr 18 16:44:06 PDT 2016; root:xnu-3248.50.21~4/RELEASE_ARM_S5L8955X
 | iPod 5 (5,1) | 9.3.1 | Emilio Robles | Darwin Kernel Version 15.4.0: Fri Feb 19 13:54:53 PST 2016; root:xnu-3248.41.4~28/RELEASE_ARM_S5L8942X
 | iPod 5 (5,1) | 9.3.2 | Emilio Robles | Darwin Kernel Version 15.5.0: Mon Apr 18 16:44:05 PDT 2016; root:xnu-3248.50.21~4/RELEASE_ARM_S5L8942X
 | iPod 5 (5,1) | 9.3.4 | [@erten50](https://twitter.com/erten50) | Darwin Kernel Version 15.6.0: Mon Jun 20 20:10:21 PDT 2016; root:xnu-3248.60.9~1/RELEASE_ARM_S5L8942X
