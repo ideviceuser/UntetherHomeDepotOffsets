@@ -5,17 +5,17 @@ Collection of all known offsets for the UntetherHomeDepot by Tihmstar
 
 | Device | Version | Contributor | Kernel |
 |---------|----------|----------|----------|
-| iPhone 4S (4,1) | 9.3.1 | stek29 |
+| iPhone 4S (4,1) | 9.3.1 | stek29 | Darwin Kernel Version 15.4.0: Fri Feb 19 13:54:52 PST 2016; root:xnu-3248.41.4~28/RELEASE_ARM_S5L8940X
 | iPhone 4S (4,1) | 9.3.4 | Tihmstar | Darwin Kernel Version 15.6.0: Mon Jun 20 20:10:21 PDT 2016; root:xnu-3248.60.9~1/RELEASE_ARM_S5L8940X
-| iPhone 5 (5,2) | 9.3.3 | deepfriedfilth |
-| iPhone 5C (5,3) | 9.3.1 | [/u/OothecaPickle](https://www.reddit.com/r/jailbreak/comments/6vgrol/help_i_have/dm091hm/) |
-| iPad Mini (2,5) | 9.3.2 | [@OothecaPickle](https://twitter.com/OothecaPickle/status/900121250705494016) |
-| iPad Mini (2,5) | 9.3.4 | [@matteyeux](https://twitter.com/matteyeux) |
-| iPad 3 (3,3) | 9.3.4 | stek29 |
-| iPad 4 (3,4) | 9.3.2 | anpnymous |
-| iPod 5 (5,1) | 9.3.1 | Emilio Robles |
-| iPod 5 (5,1) | 9.3.2 | Emilio Robles |
-| iPod 5 (5,1) | 9.3.4 | [@erten50](https://twitter.com/erten50) |
+| iPhone 5 (5,2) | 9.3.3 | deepfriedfilth | Darwin Kernel Version 15.6.0: Mon Jun 20 20:10:21 PDT 2016; root:xnu-3248.60.9~1/RELEASE_ARM_S5L8950X
+| iPhone 5C (5,3) | 9.3.1 | [/u/OothecaPickle](https://www.reddit.com/r/jailbreak/comments/6vgrol/help_i_have/dm091hm/) | Darwin Kernel Version 15.4.0: Fri Feb 19 13:54:54 PST 2016; root:xnu-3248.41.4~28/RELEASE_ARM_S5L8950X
+| iPad Mini (2,5) | 9.3.2 | [@OothecaPickle](https://twitter.com/OothecaPickle/status/900121250705494016) | Darwin Kernel Version 15.5.0: Mon Apr 18 16:44:05 PDT 2016; root:xnu-3248.50.21~4/RELEASE_ARM_S5L8942X
+| iPad Mini (2,5) | 9.3.4 | [@matteyeux](https://twitter.com/matteyeux) | Darwin Kernel Version 15.6.0: Mon Jun 20 20:10:21 PDT 2016; root:xnu-3248.60.9~1/RELEASE_ARM_S5L8942X
+| iPad 3 (3,3) | 9.3.2 | stek29 | Darwin Kernel Version 15.5.0: Mon Apr 18 16:44:06 PDT 2016; root:xnu-3248.50.21~4/RELEASE_ARM_S5L8945X
+| iPad 4 (3,4) | 9.3.2 | anpnymous | Darwin Kernel Version 15.5.0: Mon Apr 18 16:44:06 PDT 2016; root:xnu-3248.50.21~4/RELEASE_ARM_S5L8955X
+| iPod 5 (5,1) | 9.3.1 | Emilio Robles | Darwin Kernel Version 15.4.0: Fri Feb 19 13:54:53 PST 2016; root:xnu-3248.41.4~28/RELEASE_ARM_S5L8942X
+| iPod 5 (5,1) | 9.3.2 | Emilio Robles | Darwin Kernel Version 15.5.0: Mon Apr 18 16:44:05 PDT 2016; root:xnu-3248.50.21~4/RELEASE_ARM_S5L8942X
+| iPod 5 (5,1) | 9.3.4 | [@erten50](https://twitter.com/erten50) | Darwin Kernel Version 15.6.0: Mon Jun 20 20:10:21 PDT 2016; root:xnu-3248.60.9~1/RELEASE_ARM_S5L8942X
 
 
 ## How to become a Contributor?
@@ -28,7 +28,6 @@ Guid by [deepfriedfilth](https://gist.github.com/deepfriedfilth/4cac9831ff0e112b
 
 ## Warnings
 If you run this on a device that has not yet been tested by a second person, make sure you saved your blobs for a possible downgrade.
-If you tested it successfully open an issue and I will add your name as tester.
 
 ## How to use
 1. Make sure you have am iPhone, iPad or iPod touch (32-bit) on iOS 9.1-9.3.4
